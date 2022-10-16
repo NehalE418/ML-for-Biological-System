@@ -1,0 +1,3 @@
+14	1	Abhijit Kantilal Shinde	18BT10002	abhijitkshinde@gmail.com
+	2	Ajay Singh Panwar	19BT10003	ajay21panwar@gmail.com
+	3	Sk Nehal Hossain	19BT10024	hossain.nehal121998@gmail.com 
